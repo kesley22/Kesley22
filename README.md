@@ -6,7 +6,7 @@
 - 🔭 Eu atualmente trabalho em uma empresa de refrigeradores (Imbera Brasil).
 - 🌱 Atualmente estou aprendendo Python.
 - 💬 Me pergunte sobre jogos, filmes, etc.
-- 📫 Mandem emails para: luis.kesley@outlook.com
+- 📫 Mandem emails para: luiskesley79@gmail.com
 - ⚡ Fato engraçado: Eu gosto de conversar com as pessoas, sobre qualquer assunto.
 
 # Conecte-se comigo pelo:
